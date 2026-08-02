@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.ibb.co/KjwfjqhF/banner-valheimqol.jpg"></p>
 <a href="https://dathost.net/r/marlthon/valheim-server-hosting" target="_blank"><img src="https://i.ibb.co/gQvx05M/dathostlogothunder.png" align="right" alt="Marlthon"></a>
 
-<img src="https://img.shields.io/badge/ValheimQoL-8A2BE2"> ![Version Badge](https://img.shields.io/badge/Version-0.0.14-6aa84f.svg) <img src="https://img.shields.io/badge/Created by: Marlthon-1d629f">
+<img src="https://img.shields.io/badge/ValheimQoL-8A2BE2"> ![Version Badge](https://img.shields.io/badge/Version-0.0.1-6aa84f.svg) <img src="https://img.shields.io/badge/Created by: Marlthon-1d629f">
 
 ## ValheimQoL Description
 
