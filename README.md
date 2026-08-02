@@ -12,7 +12,7 @@ This mod was created around the quality-of-life improvements I personally enjoy 
 Some features are disabled by default, so I strongly recommend reading the entire mod configuration file to discover everything that is available.</br>
 I will also provide my personal configuration file for anyone who wants to use the same settings that I use:</br>
 
-<b><a href="https://raw.githubusercontent.com/Marlthon/ValheimQoL/master/marlthon.ValheimQoL.cfg">Download my personal ValheimQoL configuration</a></b>
+<b><a href="https://raw.githubusercontent.com/Marlthon/ValheimQoL/master/marlthon.ValheimQoL.cfg">Download Marlthon personal ValheimQoL configuration</a></b>
 
 ## Main Features
 
