@@ -1,3 +1,4 @@
+<p align="center"><img src="https://i.ibb.co/KjwfjqhF/banner-valheimqol.jpg"></p>
 <a href="https://dathost.net/r/marlthon/valheim-server-hosting" target="_blank"><img src="https://i.ibb.co/gQvx05M/dathostlogothunder.png" align="right" alt="Marlthon"></a>
 
 <img src="https://img.shields.io/badge/ValheimQoL-8A2BE2"> ![Version Badge](https://img.shields.io/badge/Version-0.0.14-6aa84f.svg) <img src="https://img.shields.io/badge/Created by: Marlthon-1d629f">
@@ -11,7 +12,7 @@ This mod was created around the quality-of-life improvements I personally enjoy 
 Some features are disabled by default, so I strongly recommend reading the entire mod configuration file to discover everything that is available.</br>
 I will also provide my personal configuration file for anyone who wants to use the same settings that I use:</br>
 
-<b><a href="PASTE_YOUR_CONFIG_LINK_HERE">Download my personal ValheimQoL configuration</a></b>
+<b><a href="https://raw.githubusercontent.com/Marlthon/ValheimQoL/master/marlthon.ValheimQoL.cfg">Download my personal ValheimQoL configuration</a></b>
 
 ## Main Features
 
@@ -416,19 +417,8 @@ Because the mod contains many independent options, server owners should review t
 5. For multiplayer or a dedicated server, install the same ValheimQoL version on the server and every client.
 
 ValheimQoL is built for <b>Valheim 0.221.12</b>, BepInEx, Harmony, multiplayer, and dedicated servers.</br>
-No Jotunn installation is required.</br>
 
 </details>
-
-## Credits and Inspiration
-
-Several features were inspired by quality-of-life ideas found in the Valheim modding community, including grid planting, nearby-container crafting, hover information, and server-side convenience systems.</br>
-
-- <a href="https://github.com/AdvizeGH/Advize_ValheimMods/tree/main/Advize_PlantEasily">Advize PlantEasily</a>
-- <a href="https://github.com/AzumattDev/AzuCraftyBoxes">AzuCraftyBoxes</a>
-- <a href="https://github.com/ArgusMagnus/ValheimServersideQoL">ValheimServersideQoL</a>
-
----
 
 ### Support the Development
 
